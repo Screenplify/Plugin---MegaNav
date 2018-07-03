@@ -1,0 +1,39 @@
+{
+    "plugin_box": {
+        "version": "3.1"
+    },
+    "application": {
+        "id": "46622664_meganav",
+        "name": "Mega Nav 0.1",
+        "author": "Lishan",
+        "description": "Full-Screen Pop-Out Navigation.",
+        "version": "0.1",
+        "thumbnail": "",
+        "db_name": "db_datasource",
+        "permissions": {
+            "regenerate_id": true
+        }
+    },
+    "api": {
+        "mode": "",
+        "url": "",
+        "get_media_list": ""
+    },
+    "setting": {
+        "path": "admin/settings.php?no_mm=y"
+    },
+    "admin": {
+        "path": "admin/index.php"
+    },
+    "icon": {
+        "icon_64": "assets/images/64-icon.jpg",
+        "icon_128": "assets/images/128-icon.jpg"
+    },
+    "configuration": {
+        "screen": {
+            "width": "200px",
+            "height": "200px"
+        }
+    },
+    "uses-permission": []
+}
